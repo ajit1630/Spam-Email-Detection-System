@@ -3,7 +3,7 @@ The Spam Email Detection System is a machine learning project that classifies em
 The system includes a Flask-based web interface for users to input email text and receive predictions in real time.
 
 **Table of Contents:-**
-1.Overview
+ - 1.Overview
 2.Technologies
 3.Features
 4.Installation
