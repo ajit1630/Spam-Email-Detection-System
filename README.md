@@ -39,6 +39,7 @@ The project is hosted locally with Flask and allows users to test emails by subm
 -> Run the Flask app:-  python app.py
 
 **Screenshots:-**
+![Screenshot 2024-10-10 232307](https://github.com/user-attachments/assets/373b50b3-16a7-4f3c-b40b-6000083fbf49)
 
 
 **Contributing:-**
