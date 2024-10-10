@@ -41,13 +41,17 @@ The project is hosted locally with Flask and allows users to test emails by subm
 **Screenshots:-**
 ## Example 
 
+## Example Emails
+
 ### Not Spam
-![Not Spam Email](![Screenshot 2024-10-10 232307] https://github.com/user-attachments/assets/373b50b3-16a7-4f3c-b40b-6000083fbf49)
+![Not Spam Email](path_to_not_spam_image.jpg)![Screenshot 2024-10-10 232307](https://github.com/user-attachments/assets/70d183a2-8385-404d-9122-be66772d9a7c)
+
 *Description: A clean and professional email layout with a well-structured message, indicating that it is not spam.*
 
 ### Spam
-![Spam Email](![Screenshot 2024-10-10 232358] https://github.com/user-attachments/assets/7f0e3bfd-4391-4085-abc4-8df8680fb38d
+![Spam Email](path_to_spam_image.jpg)
 *Description: An email with a chaotic and cluttered layout, highlighting the typical red flags of spam emails.*
+
 
 
 **Contributing:-**
